@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 start_time=datetime.datetime.now()
 print('Begin',start_time)
 num=0
-engine=create_engine('mysql+pymysql://root:chrono69@localhost:3306/arboles?charset=utf8mb4')
+engine=create_engine('mysql+pymysql://root:password@localhost:3306/arboles?charset=utf8mb4')
 path=r'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads'
 files=os.listdir(path)
 
