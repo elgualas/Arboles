@@ -6,7 +6,7 @@ originalmente los datos extraidos para este trabajo son proporcionados por la pl
 
 donde se descargaron mas alrededor de 80 archivos en formato .xls:
 
-![](/_src/bd_pe_2.png)
+![](/_src/bd_pe_5.png)
 
 Para subir tal cantidad de archivos a un gestor de datos, en este caso MySQL, ejecutamos 'cod_Arb.py' para subir todos los archivos, no olvides cambiar la parte del path de los archivos y en ese directorio SOLO dejar los archivos a leer.
 
